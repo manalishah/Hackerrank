@@ -1,4 +1,4 @@
-test
+Hackerrank
 ====
 These are a few of the several problems that I have solved in the Algorithms domain on Hackerrank.
 
