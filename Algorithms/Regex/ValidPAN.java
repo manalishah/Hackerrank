@@ -35,8 +35,7 @@ NO
 The first PAN number is valid since the first 5 characters are letters, the next 4 are digits and the last character is an alphabet. All letters in input is in uppercase. 
 The second PAN number is invalid as the fifth character is a digit as opposed to an letter. 
 The third PAN number contains lowercase characters. Hence invalid
-/*
-
+*/
 import java.io.*;
 import java.util.Scanner;
 import java.util.regex.Pattern;
